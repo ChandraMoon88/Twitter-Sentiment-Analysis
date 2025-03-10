@@ -1,22 +1,12 @@
 # Twitter-Sentiment-Analysis
 
-Here’s a README.md for your **Twitter Sentiment Analysis** notebook:  
-
 ---
-
-## Twitter Sentiment Analysis  
 
 ### 📌 Overview  
 This project analyzes sentiments from Twitter data using natural language processing (NLP) techniques. The goal is to classify tweets as **positive, negative, or neutral**, providing insights into public opinion on a given topic.
 
 ### 📂 Project Files  
-- **`Twitter Sentiment Analysis.ipynb`** – The main Jupyter Notebook containing data preprocessing, model training, and sentiment classification.  
-
-### 🚀 Features  
-- Data Cleaning & Preprocessing  
-- Sentiment Classification using Machine Learning or Deep Learning  
-- Data Visualization for Insights  
-- Model Evaluation & Performance Metrics  
+- **`Twitter Sentiment Analysis.ipynb`** – The main Jupyter Notebook containing data preprocessing, model training, and sentiment classification.   
 
 ### 🔧 Installation & Setup  
 1. Clone the repository or download the notebook.  
@@ -31,9 +21,7 @@ This project analyzes sentiments from Twitter data using natural language proces
 2. Preprocess text data (remove stopwords, lemmatization, etc.).  
 3. Train a sentiment analysis model.  
 4. Predict and visualize sentiment trends.  
-
-### 🏆 Results  
-The notebook includes performance metrics such as accuracy, precision, recall, and F1-score to evaluate sentiment classification models.  
+ 
 
 ### 📌 Future Improvements  
 - Implement deep learning-based sentiment analysis (e.g., LSTMs, transformers).  
